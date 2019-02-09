@@ -1,0 +1,8 @@
+[package]
+name = "rust-smart-home"
+version = "0.1.0"
+authors = ["sartor <sartorua@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+actix-web = "0.7"
